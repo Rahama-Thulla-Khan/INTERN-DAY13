@@ -1,4 +1,4 @@
-🚀 Internship Day 12 - React.js Doubt Clearing & JavaScript Learning
+🚀 Internship Day 13 - React Props, State & MongoDB Signup
 
 📅 Date: [12/02/2025]
 
@@ -6,25 +6,22 @@
 
 📌 What I Did Today:
 
-1️⃣ Cleared Doubts on React.js & Components
+1️⃣ Learned About React Props & State
 
-Discussed React components, props, and state with mentors.
+Understood how props pass data between components.
 
-Understood class-based components and their practical use.
+Explored state management in React for dynamic UI updates.
 
-Gained clarity on component lifecycle methods.
+Practiced modifying and updating state in a React app.
 
-2️⃣ Learned More About JavaScript
+2️⃣ Signed Up for MongoDB
 
-Explored additional JavaScript concepts to strengthen fundamentals.
+Created a MongoDB account for database integration.
 
-Practiced functions, loops, and event handling.
-
-Understood how JavaScript interacts with React.
+Explored basic MongoDB concepts and how it connects with backend applications.
 
 🔍 Key Takeaways:
 
-✅ Understanding React components deeply improves coding efficiency.✅ JavaScript plays a key role in React’s functionality.✅ Clearing doubts with mentors helps solidify concepts.
+✅ React props enable data flow between components.✅ State management is crucial for dynamic and interactive UI.✅ MongoDB is essential for modern backend development.✅ Understanding databases is important for full-stack development.
 
-Excited to apply these learnings in upcoming projects! 🚀🔥
-
+Looking forward to integrating MongoDB with React! 🚀🔥
